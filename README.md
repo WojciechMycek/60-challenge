@@ -5,4 +5,4 @@
 
 📊 3. Monitor CPU and RAM usage
 
-🔎 Bash Script: Check which ports are open
+🔎 4. Bash Script: Check which ports are open
