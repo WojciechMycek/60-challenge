@@ -7,3 +7,6 @@ cat disk_usage.txt
 echo "Ram usage"
 free > ram.txt
 cat ram.txt
+
+echo "CPU usage"
+mpstat
