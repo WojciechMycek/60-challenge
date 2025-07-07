@@ -4,3 +4,5 @@
 🗄️ 2. Backup home directory
 
 📊 3. Monitor CPU and RAM usage
+
+🔎 Bash Script: Check which ports are open
